@@ -38,7 +38,7 @@ src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg" alt="Al
     
     06 → Desenvolver um novo projeto para o seu portfólio
 
-<section align="center">    
+<div align="center">    
 <br/>
 <br/>
 <br/>
@@ -69,4 +69,4 @@ src="https://www.alura.com.br/assets/img/imersoes/imersao-dados/creditas.1651262
 <footer align="center">
 <img width="100" src="https://www.alura.com.br/assets/img/imersoes/imersao-dados/logo-mersao.1647533644.svg" />
 </footer>
-</section>
+</div>
