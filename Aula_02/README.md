@@ -1,7 +1,13 @@
+<div align="center">
+    <img src="https://www.alura.com.br/assets/img/imersoes/imersao-dados-3ed/logo-imersao-dados.1647533644.svg" />
+    <br/>
+    <img 
+src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg" alt="Alura" />
+</div>
+
 ### Aula 2 - Tratamento de dados e primeiros gráficos
 ## Participe e vá mais fundo
 
-<div>
 Boas-vindas à segunda aula da Imersão Dados 4ª Edição!
 
 Nesta aula avançaremos com nossas análises e vamos iniciar o tratamento dos dados para trabalhar as primeiras visualizações com <a href="https://seaborn.pydata.org/">Seaborn</a>. Nesta aula teremos de quase tudo: estatística, visualização de dados e até tratamento de strings!
@@ -37,12 +43,13 @@ A aula está recheada de conteúdo e discussões interessantes, então vem com a
 </ul>
 
 <br/>
+<div align="center">
 <h5 align="center">Bons estudos e até a próxima aula!</h5>
 
 <blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
 
-<footer align="center">
+<div align="center">
 <img width="100" src="https://www.alura.com.br/assets/img/imersoes/imersao-dados/logo-mersao.1647533644.svg" />
-</footer>
+</div>
 
 <div/>
