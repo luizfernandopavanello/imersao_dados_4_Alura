@@ -1,7 +1,13 @@
+<div align="center">
+    <img src="https://www.alura.com.br/assets/img/imersoes/imersao-dados-3ed/logo-imersao-dados.1647533644.svg" />
+    <br/>
+    <img 
+src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg" alt="Alura" />
+</div>
+
 ### Aula 01 - Seu primeiro Colab com Python e Pandas
 ## Participe e vá mais fundo
 
-<div>
 Olá, cientista! Boas-vindas a nossa primeira aula da Imersão Dados 4ª edição!
 
 Nesta Imersão preparamos as aulas de uma forma que você não precise instalar nada em sua máquina. Você só precisa acessar o Google Colab e começar a desenvolver o seu primeiro projeto.
@@ -47,13 +53,12 @@ Hoje teremos nosso primeiro contato com Python e o famoso Pandas. Vamos utilizar
    <li>Compartilhe seus experimentos com a gente e na internet, com a tag #ImersãoDados.</li>
    <li>Se tiver dúvidas, pergunte em nosso Discord. Estaremos por lá para ajudar!</li>
 </ul>
-
+<div align="center">
 <h5 align="center">Bons estudos e até a próxima aula!</h5>
 
 <blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
 
-<footer align="center">
+<div align="center">
 <img width="100" src="https://www.alura.com.br/assets/img/imersoes/imersao-dados/logo-mersao.1647533644.svg" />
-</footer>
-
+</div>
 <div/>
