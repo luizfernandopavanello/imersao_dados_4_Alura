@@ -41,7 +41,6 @@ src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg" alt="Al
 <div align="center">    
 <br/>
 <br/>
-<br/>
 <img
 src="https://alura.com.br/assets/img/imersoes/imersao-dados-3ed/logo-colab-mobile.1647533644.png" alt="colab">
 <img src="https://alura.com.br/assets/img/imersoes/imersao-dados-3ed/logo-jupyter-mobile.1647533644.svg" alt="Jupyter Noteboock">
@@ -52,8 +51,10 @@ src="https://alura.com.br/assets/img/imersoes/imersao-dados-3ed/logo-scikit-lear
 <img
 src="https://alura.com.br/assets/img/imersoes/imersao-dados-3ed/logo-pandas-mobile.1647533644.svg" alt="Pandas">
 <br/>
+<br/>
 <section
 class="container-wrapper company"><h3 class="section-title --bottom-decoration">Esta Imersão será oferecida por:</h3>
+<br/>
 <br/>
 <div>
 <img
