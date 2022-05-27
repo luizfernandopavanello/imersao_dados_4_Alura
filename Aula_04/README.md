@@ -8,7 +8,7 @@ src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg" alt="Al
 ### Aula 4 - Missão Impossivel: Cruzando bases de Dados
 ## Participe e vá mais fundo
 
-Boas-vindas à terceira aula da Imersão Dados 4ª Edição!
+Boas-vindas à quarta aula da Imersão Dados 4ª Edição!
 
 Chegamos a famosa quarta aula da Imersão, apelidada carinhosamente pelo Paulo Silveira como Missão Impossível. Mas não se preocupe! Ela é mais complexa que as outras aulas, entretanto não há o que temer. No notebook da aula está todo passo a passo. Você pode primeiro acompanhar o vídeo e depois reproduzir o código.
 
